@@ -1,11 +1,11 @@
 # Quick-start project for Scala Coding Dojos
 
 * Eclipse and IntelliJ IDEA SBT support plugins already configured
-* Uses Scala 2.10.2 -> you will need an IDE that supports it!
+* Uses Scala 2.10.3 -> you will need an IDE that supports it!
 
 ## How-to: use this project
 
-1. Install SBT! See [http://www.scala-sbt.org/release/docs/Getting-Started/Setup.html](http://www.scala-sbt.org/release/docs/Getting-Started/Setup.html)
+1. Install the **latest** SBT! (0.13.0 or later) See [http://www.scala-sbt.org/release/docs/Getting-Started/Setup.html](http://www.scala-sbt.org/release/docs/Getting-Started/Setup.html)
 1. Clone this repository to your local computer
 1. `cd dojo-quickstart`
 1. Type `sbt`
@@ -24,4 +24,4 @@ If you want to change the generic names of this quick-start project, follow thes
 1. Import the project into your IDE
 1. Change the name of the main classes, packages, etc.
 
-When re-naming packages, make sure that you rename it **both** under "main" and "test".
+When re-naming packages, make sure that you rename them **both** under "main" and "test".
