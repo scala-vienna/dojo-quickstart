@@ -5,8 +5,8 @@ version := "0.1.0"
 scalaVersion := "2.10.3"
 
 libraryDependencies ++= Seq(
-  "junit" % "junit" % "4.10" % "test",
-  "org.scalatest" %% "scalatest" % "1.9.1" % "test->default"
+  "junit" % "junit" % "4.11" % "test",
+  "org.scalatest" %% "scalatest" % "2.0" % "test->default"
 )
 
 // Use Java 7 (change to JavaSE16 if you don't have Java 7 installed)
