@@ -5,7 +5,7 @@
 
 ## How-to: use this project
 
-1. Install the **latest** SBT! (0.13.0 or later) See [http://www.scala-sbt.org/release/docs/Getting-Started/Setup.html](http://www.scala-sbt.org/release/docs/Getting-Started/Setup.html)
+1. Have **SBT 0.12** installed (for SBT 0.13, use the [master branch](https://github.com/scala-vienna/dojo-quickstart/tree/master))
 1. Clone this repository to your local computer
 1. `cd dojo-quickstart`
 1. Type `sbt`
