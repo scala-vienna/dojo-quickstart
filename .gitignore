@@ -63,3 +63,6 @@ runner
 
 #DB files
 *.db
+
+# History file
+.history
