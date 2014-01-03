@@ -10,8 +10,8 @@ Requires:
 * **SBT 0.13** (to use SBT 0.12 switch to [branch sbt12](https://github.com/scala-vienna/dojo-quickstart/tree/sbt12))
 * Scala 2.10.3 (you will need an IDE that supports it)
 * An IDE with unit-testing support, like:
-* 1. Eclipse with the Scala-IDE plugins
-* 2. IntelliJ IDEA with the Scala plugin
+    1. Eclipse with the Scala-IDE plugins
+    2. IntelliJ IDEA with the Scala plugin
 
 ## How-to: use this project
 
