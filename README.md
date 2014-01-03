@@ -7,12 +7,15 @@ Provides:
 
 Requires:
 
-* **SBT 0.13.x** (to use **SBT 0.12.4** switch to [branch sbt12](https://github.com/scala-vienna/dojo-quickstart/tree/sbt12))
+* **SBT 0.13** (to use SBT 0.12 switch to [branch sbt12](https://github.com/scala-vienna/dojo-quickstart/tree/sbt12))
 * Scala 2.10.3 (you will need an IDE that supports it)
+* An IDE with unit-testing support, like:
+* 1. Eclipse with the Scala-IDE plugins
+* 2. IntelliJ IDEA with the Scala plugin
 
 ## How-to: use this project
 
-1. Install SBT (recommended: 0.13.0 or later) See [http://www.scala-sbt.org/release/docs/Getting-Started/Setup.html](http://www.scala-sbt.org/release/docs/Getting-Started/Setup.html)
+1. [Install SBT](http://www.scala-sbt.org/release/docs/Getting-Started/Setup.html) (0.13 or later)
 1. Clone this repository to your local computer
 1. `cd dojo-quickstart`
 1. Type `sbt`
