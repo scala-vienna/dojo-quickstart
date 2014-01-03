@@ -7,7 +7,7 @@ Provides:
 
 Requires:
 
-* **SBT 0.13.x** (to use **SBT 0.12.4** switch to [branch sbt12](dojo-quickstart/tree/sbt12))
+* **SBT 0.13.x** (to use **SBT 0.12.4** switch to [branch sbt12](https://github.com/scala-vienna/dojo-quickstart/tree/sbt12))
 * Scala 2.10.3 (you will need an IDE that supports it)
 
 ## How-to: use this project
