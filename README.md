@@ -2,28 +2,34 @@
 
 Provides:
 
+* Basic Scala project
 * IDE project generation (Eclipse and IntelliJ IDEA)
 * Unit-Test support out-of-the box
 
 Requires:
 
-* **SBT 0.13** (to use SBT 0.12 switch to [branch sbt12](https://github.com/scala-vienna/dojo-quickstart/tree/sbt12))
-* Scala 2.10.3 (you will need an IDE that supports it)
+* **SBT 0.13** (consider "sbt12" branch deprecated)
+* Scala 2.11.4 (SBT will download this for you)
 * An IDE with unit-testing support, like:
     1. Eclipse with the Scala-IDE plugins
     2. IntelliJ IDEA with the Scala plugin
 
 ## How-to: use this project
 
-1. [Install SBT](http://www.scala-sbt.org/release/docs/Getting-Started/Setup.html) (0.13 or later)
+1. [Install SBT](http://www.scala-sbt.org/0.13/tutorial/index.html) (0.13 or later!)
 1. Clone this repository to your local computer
 1. `cd dojo-quickstart`
 1. Type `sbt`
-1. On the SBT prompt type either `eclipse` or `gen-idea` to generate Eclipse and IntelliJ IDEA project files.
-1. Import the project into your IDE.
-1. Start coding! ;-)
+1. Within the sbt-console, type `test`
+1. You should see `All tests passed`
 
-## Further customization (optional)
+## How-to: generate IDE projects
+
+1. On the sbt-console type either `eclipse` or `gen-idea`
+1. Import the project into your IDE
+1. Run tests from your IDE
+
+## Further customization (optional!)
 
 If you want to change the generic names of this quick-start project, follow these instructions:
 
