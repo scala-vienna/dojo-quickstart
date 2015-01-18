@@ -11,8 +11,8 @@ Requires:
 * **SBT 0.13** (consider "sbt12" branch deprecated)
 * Scala 2.11.4 (SBT will download this for you)
 * An IDE with unit-testing support, like:
-    1. Eclipse with the Scala-IDE plugins
-    2. IntelliJ IDEA with the Scala plugin
+    1. Eclipse with the [Scala-IDE](http://scala-ide.org/) plugins
+    2. [IntelliJ IDEA](https://www.jetbrains.com/idea/) with the Scala plugin
 
 ## How-to: use this project
 
