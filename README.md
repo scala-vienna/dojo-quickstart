@@ -10,9 +10,11 @@ Requires:
 
 * **SBT 0.13** (consider "sbt12" branch deprecated)
 * Scala 2.11.4 (SBT will download this for you)
-* An IDE with unit-testing support, like:
-    1. Eclipse with the [Scala-IDE](http://scala-ide.org/) plugins
-    2. [IntelliJ IDEA](https://www.jetbrains.com/idea/) with the Scala plugin
+* Recommended: an IDE with unit-testing support, like:
+    1. [Eclipse](http://www.eclipse.org/downloads/) plus the [Scala-IDE](http://scala-ide.org/download/current.html) plugins
+    2. [Scala-IDE](http://scala-ide.org/download/sdk.html) (Eclipse with pre-configured Scala support)
+    2. [IntelliJ IDEA](https://www.jetbrains.com/idea/) with the [Scala plugin](https://confluence.jetbrains.com/display/SCA/Getting+Started+with+IntelliJ+IDEA+Scala+Plugin)
+* Alternatively, you can use any text-editor and run `sbt ~test` from the console
 
 ## How-to: use this project
 
